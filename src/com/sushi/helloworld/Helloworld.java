@@ -8,8 +8,6 @@ public class Helloworld {
         }
         System.out.printf("hello word");
         System.out.printf("hello word");
-        test();
-        System.out.printf("hello word");
         System.out.printf("hello word");
         System.out.printf("hello word");
         System.out.printf("hello word");
